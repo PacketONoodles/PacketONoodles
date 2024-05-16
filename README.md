@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PacketONoodles
 - 👀 I’m interested in playing and drawing
-- 🌱 I’m currently learning sql
+- 🌱 I’m currently learning breathe
 - 💞️ I’m looking to collaborate on lego brick
 - 📫 How to reach me: carrier pigeon but ravens work too
 - ⚡ Fun fact: frogs
