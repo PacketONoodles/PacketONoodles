@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @PacketONoodles
-- 👀 I’m interested in ...
+- 👀 I’m interested in playing and drawing
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on lego brick
 - 📫 How to reach me: carrier pigeon but ravens work too
-- 😄 Pronouns: ...
 - ⚡ Fun fact: frogs
 
 <!---
